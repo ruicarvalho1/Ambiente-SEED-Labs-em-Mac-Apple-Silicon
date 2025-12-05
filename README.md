@@ -1,0 +1,1 @@
+# Ambiente-SEED-Labs-em-Mac-Apple-Silicon
