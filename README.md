@@ -1,5 +1,9 @@
 # Ambiente SEED Labs em Mac Apple Silicon (M1/M2/M3) com Colima (x86_64)
 
+
+## 0. Ativar a Rosetta no Docker Desktop
+
+<img src="https://files.fm/thumb_show.php?i=8uxu8sgupe" alt="Ativar Rosetta no Docker Desktop">
 ---
 
 ## 1. Instalar dependências
