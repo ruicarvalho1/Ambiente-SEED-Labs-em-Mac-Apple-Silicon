@@ -4,7 +4,6 @@
 ## 0. Ativar a Rosetta no Docker Desktop
 
 <img src="https://files.fm/thumb_show.php?i=8uxu8sgupe" alt="Ativar Rosetta no Docker Desktop">
----
 
 ## 1. Instalar dependências
 
